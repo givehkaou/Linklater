@@ -1,0 +1,9 @@
+]0;/Volumes/GRACE/Coursera/Linklater[?1034hGraces-MBP-2:Linklater gracehung$ [KGraces-MBP-2:Linklater gracehung$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/gracehung/dir/name/of/path/to/file: No such file or directory
+]0;/Volumes/GRACE/Coursera/LinklaterGraces-MBP-2:Linklater gracehung$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/gracehung/dir/name/of/path/to/file: No such file or directory
+]0;/Volumes/GRACE/Coursera/LinklaterGraces-MBP-2:Linklater gracehung$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/gracehung/dir/name/of/path/to/file: No such file or directory
+]0;/Volumes/GRACE/Coursera/LinklaterGraces-MBP-2:Linklater gracehung$ git init
+Initialized empty Git repository in /Volumes/GRACE/Coursera/Linklater/.git/
+]0;/Volumes/GRACE/Coursera/LinklaterGraces-MBP-2:Linklater gracehung$ git add . 
